@@ -1,0 +1,3 @@
+%{"amqp": {:package, "0.0.4"},
+  "amqp_client": {:package, "3.0.2"},
+  "rabbit_common": {:package, "3.0.2"}}
